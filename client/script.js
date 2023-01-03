@@ -76,7 +76,7 @@ const handleSubmit = async (e) => {
   loader(messageDiv)
 
   //fetch data
-  const response = await fetch('https://codzex.onrender.com',{
+  const response = await fetch('https://codzz.onrender.com',{
       method: 'POST',
       headers: {
           'Content-Type': 'application/json',
